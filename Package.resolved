@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "modulectuist",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/agustindeleon7/ModuleCTuist.git",
+      "state" : {
+        "revision" : "6b83a120201d89ebd085886d86e0bb9225db3a60",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
